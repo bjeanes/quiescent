@@ -31,7 +31,7 @@
   For example:
 
     (defcomponent Widget
-      'A Widget'
+      \"A Widget\"
       :keyfn #(...)
       :on-render #(...)
       [value constant-value]
